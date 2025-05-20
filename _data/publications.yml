@@ -3,9 +3,9 @@
 #- {name: 'Shock interactions, turbulence and the oriKevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
 #- {name: 'Low shear diffusion central schemes for paricholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
 
-index:
-- Test publication
-- {name: 'Tes et al.', url: ''}
-- {name: 'Shock interactions,pectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: ''}
-- {name: 'Low particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: ''}
-- {name: 'Numerical solymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormiernd Elie Raphaël', url: ''}
+#index:
+#- Test publication
+#- {name: 'Tes et al.', url: ''}
+#- {name: 'Shock interactions,pectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: ''}
+#- {name: 'Low particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: ''}
+#- {name: 'Numerical solymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormiernd Elie Raphaël', url: ''}
